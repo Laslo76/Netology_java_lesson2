@@ -1,3 +1,4 @@
+/* Файл с ошибочным наименование класса */
 import java.io.PrintStream;
 import java.nio.charset.StandardCharsets;
 import java.util.Scanner;
@@ -19,3 +20,4 @@ public class feeCalculation {
         ps.print("Размер пошлины (в руб.) составит: " + result);
     }
 }
+
